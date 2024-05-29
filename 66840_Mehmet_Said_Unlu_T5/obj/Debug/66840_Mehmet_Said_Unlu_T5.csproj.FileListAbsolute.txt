@@ -1,0 +1,11 @@
+C:\Users\mehme\OneDrive\Masaüstü\Mehmet\Programing C#\66840_Mehmet_Said_Unlu_T5\66840_Mehmet_Said_Unlu_T5\bin\Debug\66840_Mehmet_Said_Unlu_T5.exe.config
+C:\Users\mehme\OneDrive\Masaüstü\Mehmet\Programing C#\66840_Mehmet_Said_Unlu_T5\66840_Mehmet_Said_Unlu_T5\bin\Debug\66840_Mehmet_Said_Unlu_T5.exe
+C:\Users\mehme\OneDrive\Masaüstü\Mehmet\Programing C#\66840_Mehmet_Said_Unlu_T5\66840_Mehmet_Said_Unlu_T5\bin\Debug\66840_Mehmet_Said_Unlu_T5.pdb
+C:\Users\mehme\OneDrive\Masaüstü\Mehmet\Programing C#\66840_Mehmet_Said_Unlu_T5\66840_Mehmet_Said_Unlu_T5\obj\Debug\66840_Mehmet_Said_Unlu_T5.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\Mehmet\Programing C#\66840_Mehmet_Said_Unlu_T5\66840_Mehmet_Said_Unlu_T5\obj\Debug\_66840_Mehmet_Said_Unlu_T5.Form1.resources
+C:\Users\mehme\OneDrive\Masaüstü\Mehmet\Programing C#\66840_Mehmet_Said_Unlu_T5\66840_Mehmet_Said_Unlu_T5\obj\Debug\_66840_Mehmet_Said_Unlu_T5.Form2.resources
+C:\Users\mehme\OneDrive\Masaüstü\Mehmet\Programing C#\66840_Mehmet_Said_Unlu_T5\66840_Mehmet_Said_Unlu_T5\obj\Debug\_66840_Mehmet_Said_Unlu_T5.Properties.Resources.resources
+C:\Users\mehme\OneDrive\Masaüstü\Mehmet\Programing C#\66840_Mehmet_Said_Unlu_T5\66840_Mehmet_Said_Unlu_T5\obj\Debug\66840_Mehmet_Said_Unlu_T5.csproj.GenerateResource.cache
+C:\Users\mehme\OneDrive\Masaüstü\Mehmet\Programing C#\66840_Mehmet_Said_Unlu_T5\66840_Mehmet_Said_Unlu_T5\obj\Debug\66840_Mehmet_Said_Unlu_T5.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\Mehmet\Programing C#\66840_Mehmet_Said_Unlu_T5\66840_Mehmet_Said_Unlu_T5\obj\Debug\66840_Mehmet_Said_Unlu_T5.exe
+C:\Users\mehme\OneDrive\Masaüstü\Mehmet\Programing C#\66840_Mehmet_Said_Unlu_T5\66840_Mehmet_Said_Unlu_T5\obj\Debug\66840_Mehmet_Said_Unlu_T5.pdb
